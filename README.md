@@ -3,8 +3,8 @@
 # 系统架构
 ![alt text](images/系统构成.jpg)
 # 公司端APP介绍
-| ![alt text](images/1.jpg) | ![alt text](images/2.jpg) |
-| ![alt text](images/3.jpg) | ![alt text](images/4.jpg) |
-| ![alt text](images/5.jpg) | ![alt text](images/6.jpg) |
-| ![alt text](images/7.jpg) | ![alt text](images/8.jpg) |
-| ![alt text](images/9.jpg) | ![alt text](images/10.jpg) |
+| ![alt text](images/1.jpeg) | ![alt text](images/2.jpeg) |
+| ![alt text](images/3.jpeg) | ![alt text](images/4.jpeg) |
+| ![alt text](images/5.jpeg) | ![alt text](images/6.jpeg) |
+| ![alt text](images/7.jpeg) | ![alt text](images/8.jpeg) |
+| ![alt text](images/9.jpeg) | ![alt text](images/10.jpeg) |
